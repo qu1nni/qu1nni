@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0qtm9pjhisacqy14yope3z8ex&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 <!--
 **qu1nni/qu1nni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
